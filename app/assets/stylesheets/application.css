@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ .articles_list a {
+  color: #337ab7;
+  text-decoration: none;
+}
